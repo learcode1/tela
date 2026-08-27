@@ -6,7 +6,7 @@ import { EditableText } from "./EditableText";
 
 import boxFuturo from "@/assets/box-futuro.jpg";
 import boxKeys from "@/assets/box-keys.jpg";
-import boxMoto from "@/assets/box-moto.jpg";
+import boxMoto from "@/assets/box-moto.jpeg";
 import boxSummer from "@/assets/box-summer.jpg";
 import { formatAmount, parseAmount } from "@/lib/currency";
 
