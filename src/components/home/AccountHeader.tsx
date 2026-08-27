@@ -8,7 +8,6 @@ export function AccountHeader() {
           <div className="grid size-12 shrink-0 place-items-center rounded-full" style={{ backgroundColor: '#8032C3' }}>
             <UserAvatarIcon className="size-5" />
           </div>
-          <span className="absolute -top-0.5 right-0 size-2.5 rounded-full bg-brand-foreground" />
         </div>
         <div className="flex shrink-0 items-center gap-6">
           <button type="button" aria-label="Ocultar saldo">
