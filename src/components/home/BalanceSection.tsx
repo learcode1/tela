@@ -21,7 +21,7 @@ export function BalanceSection() {
         <ChevronRight className="size-5 shrink-0 text-subtle" strokeWidth={2} />
       </button>
       <p className="mt-1 text-lg font-medium">
-        <EditableAmount value="900" label="Editar saldo em conta" />
+        <EditableAmount value="90000" label="Editar saldo em conta" />
       </p>
 
       <div className="mt-6 grid grid-cols-4 gap-1.5">
